@@ -1,0 +1,1550 @@
+[
+  {
+    "id": 1,
+    "name": "Dev International",
+    "location": "Mumbai",
+    "rating": 3.6,
+    "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/enj3srsnhbltbom2ovvh",
+    "menu": [
+      {
+        "id": 8907,
+        "name": "Mutton Roast",
+        "price": 151,
+        "isVeg": false,
+        "category": "Sushi",
+        "rating": 3.2,
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/hpirtpy349a0zu7miw3p",
+        "description": "Tender mutton pieces slow-roasted in rich Indian spices for a deep, smoky flavor."
+      },
+      {
+        "id": 9998,
+        "name": "Egg Bhurji",
+        "price": 217,
+        "isVeg": false,
+        "category": "Burger",
+        "rating": 3.5,
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/vrtjvnuys4ryh9wg14hz",
+        "description": "Spicy scrambled eggs sautéed with onions, tomatoes, and green chilies — a Mumbai street classic."
+      },
+      {
+        "id": 8927,
+        "name": "Paneer Masala",
+        "isVeg": true,
+        "price": 185,
+        "category": "Sandwich",
+        "rating": 3.5,
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/hgxakh0n08dsl56jfbz0",
+        "description": "Soft paneer cubes simmered in a spicy tomato-onion gravy, rich with Indian masalas."
+      },
+      {
+        "id": 3935,
+        "name": "Butter Paneer",
+        "price": 480,
+        "isVeg": true,
+        "category": "Wrap",
+        "rating": 5.0,
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/eudjfp4ys0imirildxks",
+        "description": "Creamy tomato-based curry with paneer cubes, mildly spiced and enriched with butter."
+      },
+      {
+        "id": 2569,
+        "name": "Chicken Masala",
+        "price": 231,
+        "isVeg": false,
+        "category": "Pasta",
+        "rating": 3.6,
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/sisvvn0dfmoocbxyreev",
+        "description": "Succulent chicken chunks cooked in a spicy, aromatic gravy — a hearty Indian favorite."
+      },
+      {
+        "id": 1413,
+        "name": "Chicken Mughlai",
+        "price": 168,
+        "isVeg": false,
+        "category": "Noodles",
+        "rating": 4.0,
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/fh2dxv9fh4ply41m9tom",
+        "description": "Rich and creamy chicken curry with a Mughlai twist — full of nuts, cream, and mild spices."
+      },
+      {
+        "id": 6327,
+        "name": "Butter Chicken",
+        "price": 200,
+        "isVeg": false,
+        "category": "Pizza",
+        "rating": 3.5,
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/oghuawtlzw4rz1rtx1pc",
+        "description": "India’s most beloved dish – chicken in a creamy tomato sauce, mildly spiced and buttery."
+      },
+      {
+        "id": 2871,
+        "name": "Dal Fry",
+        "price": 388,
+        "isVeg": true,
+        "category": "Sushi",
+        "rating": 3.1,
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/oehwlah6t2glfzn9oxfb",
+        "description": "Toor dal tempered with ghee, garlic, mustard seeds, and spices — perfect comfort food."
+      },
+      {
+        "id": 7929,
+        "name": "Dal Tadka",
+        "price": 484,
+        "isVeg": true,
+        "category": "Burger",
+        "rating": 4.9,
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/ofyj001cxsk5e86ii5zg",
+        "description": "Lentils cooked and topped with a sizzling tadka of ghee, garlic, and red chilies."
+      },
+      {
+        "id": 7453,
+        "name": "Egg Masala",
+        "price": 189,
+        "isVeg": false,
+        "category": "Burger",
+        "rating": 3.2,
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/ngljrc0nudaiae3ermn6",
+        "description": "Boiled eggs in a rich tomato and onion-based gravy, spiced to perfection."
+      },
+      {
+        "id": 3678,
+        "name": "Mutton Korma",
+        "price": 229,
+        "isVeg": false,
+        "category": "Pizza",
+        "rating": 4.1,
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/frras7x315wqpoextt38",
+        "description": "Royal Mughlai-style mutton dish slow-cooked in creamy, nutty, aromatic curry."
+      },
+      {
+        "id": 2250,
+        "name": "Mutton Curry",
+        "price": 178,
+        "isVeg": false,
+        "category": "Salad",
+        "rating": 3.8,
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/eln284xsrql0sviyey0u",
+        "description": "Classic home-style mutton curry made with spices, onions, and tomatoes."
+      },
+      {
+        "id": 3441,
+        "name": "Mutton Masala",
+        "price": 191,
+        "isVeg": false,
+        "category": "Burger",
+        "rating": 3.0,
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/o005f36vthcjbz2bzfco",
+        "description": "Spicy mutton chunks simmered in a thick and flavorful masala gravy."
+      },
+      {
+        "id": 1094,
+        "name": "Keema Kaleji",
+        "price": 333,
+        "isVeg": false,
+        "category": "Dessert",
+        "rating": 3.8,
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/pbbyskcjdcydfjil8gkr",
+        "description": "Minced mutton and liver cooked with spices — a bold and rich dish for meat lovers."
+      },
+      {
+        "id": 3429,
+        "name": "Jeera Rice",
+        "price": 257,
+        "isVeg": true,
+        "category": "Pizza",
+        "rating": 4.0,
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/ayc2loluppm6oikoz2wj",
+        "description": "Aromatic basmati rice tempered with cumin seeds, perfect with dals and curries."
+      },
+      {
+        "id": 4947,
+        "name": "Chicken Biryani",
+        "price": 392,
+        "isVeg": false,
+        "category": "Wrap",
+        "rating": 3.1,
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/lln3zxpll8pshaeqrgr9",
+        "description": "Fragrant basmati rice cooked with spiced chicken, saffron, and caramelized onions."
+      },
+      {
+        "id": 8756,
+        "name": "Mutton Biryani",
+        "price": 358,
+        "isVeg": false,
+        "category": "Sandwich",
+        "rating": 4.7,
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/hcydl6nb4fcanxip5uhf",
+        "description": "Delicious mutton layered with fragrant rice, herbs, and spices, slow-cooked to perfection."
+      },
+      {
+        "id": 5847,
+        "name": "Tandoori Roti",
+        "price": 500,
+        "isVeg": true,
+        "category": "Noodles",
+        "rating": 5.0,
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/ocl3qisouezq6v8jravm",
+        "description": "Traditional whole wheat flatbread cooked in a clay tandoor — crisp on the outside, soft inside"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Hotel Sai Nath & Sai Restaurant",
+    "location": "Delhi",
+    "rating": 4.8,
+    "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/vkhcohhmqfczycw9vsar",
+    "menu": [
+      {
+        "id": 2918,
+        "name": "Special Thali",
+        "price": 497,
+        "isVeg": true,
+        "category": "Biryani",
+        "rating": 3.8,
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/xspxjj3bwz66gc3ual7o",
+        "description": "A wholesome Indian platter featuring a variety of curries, breads, rice, sweets, and more."
+      },
+      {
+        "id": 3874,
+        "name": "Special Dal Khichdi",
+        "price": 324,
+        "category": "Noodles",
+        "isVeg": true,
+        "rating": 3.4,
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/0444a09ec4e85f6651c4e5e7f4857f81",
+        "description": "A comfort dish made with rice and moong dal, tempered with ghee, cumin, and spices."
+      },
+      {
+        "id": 2839,
+        "name": "Paper Masala Dosa",
+        "price": 340,
+        "category": "Sandwich",
+        "isVeg": true,
+        "rating": 4.8,
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/pggdjuwidtipb2pxbhxd",
+        "description": "A large, crispy South Indian crepe stuffed with spicy potato filling and served with chutney and sambar."
+      },
+      {
+        "id": 2335,
+        "name": "Cutting Dosa",
+        "price": 274,
+        "category": "Noodles",
+        "isVeg": true,
+        "rating": 4.6,
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/61f881a857e79d42f640e775166fcabc",
+        "description": "Mini dosa rolls cut into bite-sized portions, perfect for sharing and snacking."
+      },
+      {
+        "id": 3596,
+        "name": "Chesse Dosa",
+        "price": 176,
+        "category": "Sandwich",
+        "isVeg": true,
+        "rating": 4.0,
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/719f10bccb9f292a20954d483812e996",
+        "description": "A crispy dosa filled with melted cheese and spiced potatoes — a fusion favorite."
+      },
+      {
+        "id": 4041,
+        "name": "Veg Sandwich",
+        "price": 216,
+        "category": "Noodles",
+        "isVeg": true,
+        "rating": 4.9,
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/kg41taveqaaj53lxjydx",
+        "description": "Freshly made sandwich with assorted veggies, herbs, and butter-grilled bread."
+      },
+      {
+        "id": 5894,
+        "name": "Cheese Sandwich",
+        "price": 399,
+        "category": "Biryani",
+        "isVeg": true,
+        "rating": 4.4,
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/mg6drgmpj3b7xbjjmdke",
+        "description": "A grilled sandwich oozing with melted cheese and seasoned to perfection."
+      },
+      {
+        "id": 4728,
+        "name": "Paneer Pasanda",
+        "price": 212,
+        "category": "Salad",
+        "isVeg": true,
+        "rating": 4.8,
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/fvc8yjrvakz4sexdc5vq",
+        "description": "Stuffed paneer slices in a rich and creamy tomato-based curry, a Mughlai delicacy."
+      },
+      {
+        "id": 1824,
+        "name": "Handi Paneer",
+        "price": 484,
+        "category": "Pizza",
+        "isVeg": true,
+        "rating": 4.3,
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/wfeam0y9bzqmonvn4ihr",
+        "description": "Paneer cooked in a traditional earthen pot (handi) with aromatic spices and herbs."
+      },
+      {
+        "id": 9736,
+        "name": "Paneer Butter Masala",
+        "price": 474,
+        "category": "Sushi",
+        "isVeg": true,
+        "rating": 3.9,
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/f7f9c2e673df280e6b04d3eacffac216",
+        "description": "A rich, creamy tomato gravy dish with cubes of paneer and a touch of butter — a North Indian favorite."
+      }
+    ]
+  },
+
+  {
+    "id": 3,
+    "name": "Adil Hotel",
+    "location": "Bangalore",
+    "rating": 4.1,
+    "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/gp1ityra6utvzqn6ghnv",
+    "menu": [
+      {
+        "id": 2570,
+        "name": "Mix Veg Raita",
+        "price": 177,
+        "isVeg": true,
+        "category": "Pizza",
+        "rating": 3.5,
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/5/15/f186bba3-fa72-417b-bbb6-1f6edbd86deb_9a288cdc-9612-4954-8018-3b68d3c013f2.JPG",
+        "description": "Refreshing yogurt-based side dish mixed with assorted vegetables and a hint of cumin."
+      },
+      {
+        "id": 2369,
+        "name": "Boondi Raita",
+        "price": 215,
+        "category": "Pasta",
+        "isVeg": true,
+        "rating": 3.9,
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/1860f85a7cd1276e7a4a9247a06f13c4",
+        "description": "Crispy boondi soaked in seasoned curd, making a perfect side for spicy meals."
+      },
+      {
+        "id": 8909,
+        "name": "Fruit Raita",
+        "price": 484,
+        "category": "Pasta",
+        "isVeg": true,
+        "rating": 3.6,
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/9fbbc13a5722fe8ffbd455bc4980c5c9",
+        "description": "Sweet and tangy raita with mixed fruits blended in creamy yogurt."
+      },
+      {
+        "id": 6407,
+        "name": "French Fries",
+        "price": 330,
+        "category": "Noodles",
+        "isVeg": true,
+        "rating": 4.2,
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/efa06aedf35c477f118e782ee1832914",
+        "description": "Crispy golden potato fries, lightly salted and served hot — a classic snack."
+      },
+      {
+        "id": 6441,
+        "name": "Veg Sandwich",
+        "price": 205,
+        "category": "Dessert",
+        "isVeg": true,
+        "rating": 3.5,
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/171c3d5eaab6281069bec1301adceec6",
+        "description": "Grilled sandwich filled with fresh vegetables, chutney, and butter — perfect for a light meal."
+      },
+      {
+        "id": 9478,
+        "name": "Chicken Sandwich",
+        "price": 339,
+        "category": "Wrap",
+        "isVeg": false,
+        "rating": 4.6,
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/5f062bd98a1ba17fec3e40c6495883ba",
+        "description": "Delicious sandwich stuffed with spiced grilled chicken and veggies, served toasted."
+      },
+      {
+        "id": 8253,
+        "name": "Chicken Manchow",
+        "price": 271,
+        "category": "Biryani",
+        "isVeg": false,
+        "rating": 3.8,
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/2c6c1ceda0b62724850f3f7ef7c8307b",
+        "description": "Spicy Indo-Chinese chicken soup with vegetables, soy sauce, and fried noodles on top."
+      },
+      {
+        "id": 8029,
+        "name": "Hara Bhara Kebab",
+        "price": 482,
+        "category": "Sushi",
+        "isVeg": true,
+        "rating": 4.8,
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/yvzwflnewimzh2zafbui",
+        "description": "Healthy green patties made from spinach, peas, and potatoes, shallow-fried to perfection."
+      },
+      {
+        "id": 6208,
+        "name": "Tandoori Mushroom",
+        "price": 289,
+        "category": "Noodles",
+        "isVeg": true,
+        "rating": 3.3,
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/01619f44db38d95d79637c1256bc8785",
+        "description": "Juicy mushrooms marinated in tandoori spices and grilled for a smoky flavor."
+      },
+      {
+        "id": 9488,
+        "name": "Paneer Tikka",
+        "price": 357,
+        "category": "Salad",
+        "isVeg": true,
+        "rating": 3.8,
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/acxdfhd3jly8n3psjz7o",
+        "description": "Cubes of paneer marinated in spices, skewered, and grilled in a traditional tandoor."
+      }
+    ]
+  },
+
+  {
+    "id": 4,
+    "name": "Gupta Bhojnalay",
+    "location": "Bangalore",
+    "rating": 4.3,
+    "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/jo9pdipf4elcuch8g55q",
+    "menu": [
+      {
+        "id": 5462,
+        "name": "Tawa Roti",
+        "price": 370,
+        "category": "Salad",
+        "isVeg": true,
+        "rating": 4.7,
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2025/4/24/443b5077-1a2b-4cfb-ad89-19a985090e95_fc33308f-964c-45a0-a1d3-5ef7c08e7b3b.jpg",
+        "description": "Soft, whole wheat flatbread cooked on a griddle, perfect with any Indian curry."
+      },
+      {
+        "id": 9075,
+        "name": "Butter Roti",
+        "price": 341,
+        "category": "Dessert",
+        "isVeg": true,
+        "rating": 3.9,
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2025/4/24/e3950738-845f-4ae0-9504-70be90598bb2_f74efe7d-b21b-4bb7-91c7-da6ef050e14c.jpg",
+        "description": "Traditional Indian roti brushed with melted butter for added flavor and softness."
+      },
+      {
+        "id": 3264,
+        "name": "Plain Rice",
+        "price": 451,
+        "category": "Pizza",
+        "isVeg": true,
+        "rating": 4.2,
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2025/5/17/54916353-255d-43da-896b-46f803b851ce_6fc98245-caec-40cc-b3a7-ffaab2275ac1.jpg",
+        "description": "Steamed white rice, a staple Indian base dish that pairs with any dal or curry."
+      },
+      {
+        "id": 2465,
+        "name": "Jeera Rice",
+        "price": 446,
+        "category": "Pasta",
+        "isVeg": true,
+        "rating": 4.9,
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2025/5/17/696c2539-1b67-4cac-8f44-02d0cd9ab8d3_5c600652-5a2b-453b-aba4-810496b8e166.jpg",
+        "description": "Aromatic basmati rice tempered with cumin seeds — light, flavorful, and classic."
+      },
+      {
+        "id": 3095,
+        "name": "Special Thali (in silver pouch)",
+        "price": 348,
+        "category": "Biryani",
+        "isVeg": true,
+        "rating": 4.8,
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2025/4/26/f7718d36-5b49-4498-bbab-56c81649e758_51561d53-7667-4797-80f4-a0dac431a6eb.jpg",
+        "description": "A deluxe thali packed in a silver pouch, featuring rice, dal, sabzi, roti, salad, and dessert."
+      },
+      {
+        "id": 6493,
+        "name": "Mini Thali (in sliver Pouch)",
+        "price": 332,
+        "category": "Burger",
+        "isVeg": true,
+        "rating": 3.9,
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2025/4/26/45b2e3da-4f79-42e1-bc8f-791b60113f02_823366db-ad13-42c6-a380-fc3544fafa82.jpg",
+        "description": "Compact meal combo in a silver pouch with roti, rice, dal, and one vegetable curry."
+      },
+      {
+        "id": 5431,
+        "name": "Maharaja Thali ( in box container) ( min 20 minutes}",
+        "price": 153,
+        "category": "Burger",
+        "isVeg": true,
+        "rating": 4.3,
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2025/5/2/49c4260a-3163-4674-af6a-9a83d83ad7b5_30173c21-28f2-4ad1-901b-b4cf0a6f7976.jpg",
+        "description": "Royal Indian thali served in a box with multiple dishes — a feast in every bite."
+      },
+      {
+        "id": 3331,
+        "name": "Sev tamatar (half) with 4 tawa roti",
+        "price": 341,
+        "category": "Sandwich",
+        "isVeg": true,
+        "rating": 3.2,
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2025/5/24/06b8dd0a-fadb-42a0-b5f6-708a552023ce_4164f011-b61a-4ebc-af6b-43dc2a389ecc.jpg",
+        "description": "A tangy tomato curry with crunchy sev served alongside 4 soft tawa rotis."
+      },
+      {
+        "id": 3919,
+        "name": "Veg biryani with 250 ml cold drink",
+        "price": 203,
+        "category": "Sushi",
+        "isVeg": true,
+        "rating": 3.4,
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2025/5/18/af50eb5e-9008-4315-8203-f14219a45500_64a50340-a1a9-4866-8435-58c9a231eeb2.jpg",
+        "description": "Fragrant veg biryani served with a refreshing 250 ml cold drink — perfect for a quick meal."
+      },
+      {
+        "id": 5885,
+        "name": "Veg pulao with butter milk and papad (small)",
+        "price": 363,
+        "isVeg": true,
+        "category": "Pasta",
+        "rating": 4.2,
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2025/5/18/a9e5da30-1a35-4f20-a07b-be9e5b59112b_bf752fe5-03c5-48de-aedd-936d09a78f24.jpg",
+        "description": "Aromatic veg pulao served with creamy buttermilk and crispy papad — a light, satisfying meal."
+      }
+    ]
+  },
+
+  {
+    "id": 5,
+    "name": "Kathi Junction",
+    "location": "Delhi",
+    "rating": 5.0,
+    "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/nigqvxgzvyxtfjuqasgg",
+    "menu": [
+      {
+        "id": 7870,
+        "name": "Butter Roti",
+        "price": 168,
+        "category": "Dessert",
+        "isVeg": true,
+        "rating": 3.5,
+        "description": "Soft whole wheat flatbread topped with melting butter, perfect with any curry.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/f785f270238aebae0e9c80a9baf68af7"
+      },
+      {
+        "id": 7845,
+        "name": "1 Paneer Paratha",
+        "price": 264,
+        "category": "Dessert",
+        "isVeg": true,
+        "rating": 3.1,
+        "description": "Stuffed whole wheat flatbread with spiced paneer filling, served hot.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/oz6gz06xbs4e6r2ifxjz"
+      },
+      {
+        "id": 3192,
+        "name": "Dahi",
+        "price": 434,
+        "category": "Pasta",
+        "isVeg": true,
+        "rating": 3.4,
+        "description": "Freshly churned curd served chilled, perfect as a side or a palate cleanser.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/11/12/0274ef72-34eb-47d2-938b-8adb3b540886_1d5458af-49f6-4f4e-b243-3df2a6f19cb0.jpg"
+      },
+      {
+        "id": 1494,
+        "name": "Masala Rice",
+        "price": 197,
+        "category": "Noodles",
+        "isVeg": true,
+        "rating": 4.1,
+        "description": "Aromatic rice cooked with mild spices and herbs, full of flavor.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/10/2/4b779b78-1c06-4fc4-b3e2-73801554a3e4_69cb8e33-7cd6-4943-b5f4-259efe62a4fc.JPG"
+      },
+      {
+        "id": 2300,
+        "name": "Mix Veg",
+        "price": 480,
+        "category": "Dessert",
+        "isVeg": true,
+        "rating": 3.9,
+        "description": "A hearty mix of seasonal vegetables cooked in light Indian spices.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/10/2/223fd4f9-4271-4ab7-8862-5a686ae4e21e_13da2364-3594-4aec-b688-6f202ccf5ef4.JPG"
+      },
+      {
+        "id": 4093,
+        "name": "Sev Tamatar",
+        "price": 372,
+        "category": "Salad",
+        "isVeg": true,
+        "rating": 4.5,
+        "description": "Tangy tomato curry topped with crispy sev, a regional favorite.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/4/9/9b0cbcd0-13c7-4465-82ce-fa87f31ae321_bd30fd1e-b6a0-4924-ac27-200076a21b32.JPG"
+      },
+      {
+        "id": 2739,
+        "name": "Sev Bhaji",
+        "price": 411,
+        "category": "Pasta",
+        "isVeg": true,
+        "rating": 3.1,
+        "description": "Traditional Maharashtrian-style sev bhaji in a spicy onion-tomato gravy.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/10/2/bb216ee9-9549-49ed-9361-46352bfacfe1_65b79d67-e713-4101-905e-f11c38aef8a3.JPG"
+      },
+      {
+        "id": 9754,
+        "name": "Gobhi Masala",
+        "price": 324,
+        "category": "Burger",
+        "isVeg": true,
+        "rating": 4.9,
+        "description": "Cauliflower florets simmered in flavorful Indian masala gravy.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/10/2/fe6ddea0-bbfb-4279-9200-4e005229ddf4_8523c3ad-f1d2-4680-adb6-fa09fd28a3db.JPG"
+      },
+      {
+        "id": 1538,
+        "name": "Pasta Dish 4",
+        "price": 295,
+        "category": "Pasta",
+        "isVeg": true,
+        "rating": 4.4,
+        "description": "Creamy, cheesy pasta with Indian-style spices for a desi twist.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/10/9/9ed04860-9271-4596-b650-7eb169e532cf_6af080f0-8b27-4418-8255-ea2e9367a0ee.JPG"
+      },
+      {
+        "id": 3643,
+        "name": "Bhindi Masala",
+        "price": 312,
+        "category": "Burger",
+        "isVeg": true,
+        "rating": 4.9,
+        "description": "Fresh okra stir-fried with onions and traditional spices.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/10/9/9ed04860-9271-4596-b650-7eb169e532cf_6af080f0-8b27-4418-8255-ea2e9367a0ee.JPG"
+      },
+      {
+        "id": 2787,
+        "name": "Aloo Palak",
+        "price": 260,
+        "isVeg": true,
+        "category": "Noodles",
+        "rating": 4.6,
+        "description": "Delicious combination of potatoes and spinach in a spiced gravy.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/10/9/5528c173-e1b4-4c8c-864e-9eb8b33499d0_76e7be91-e85d-48c4-aae6-3ec81ce1624f.JPG"
+      },
+      {
+        "id": 9272,
+        "name": "Dal Fry",
+        "price": 426,
+        "category": "Wrap",
+        "isVeg": true,
+        "rating": 3.5,
+        "description": "Classic yellow dal tempered with ghee, cumin, and garlic.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/10/1/59ee2a46-834e-4b25-8353-abe9b0173c27_207fe785-1b64-482b-9e3f-0404b4690657.JPG"
+      },
+      {
+        "id": 9786,
+        "name": "Butter Roti",
+        "price": 243,
+        "category": "Wrap",
+        "isVeg": true,
+        "rating": 5.0,
+        "description": "A second serving of our soft butter-smeared roti—too good for just one!",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/f785f270238aebae0e9c80a9baf68af7"
+      }
+    ]
+  },
+
+  {
+    "id": 6,
+    "name": "Satkar Restaurant",
+    "location": "Delhi",
+    "rating": 3.8,
+    "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/rvxp5xbniat84r6efku2",
+    "menu": [
+      {
+        "id": 8474,
+        "name": "Maharaja Thali",
+        "price": 412,
+        "category": "Wrap",
+        "isVeg": true,
+        "rating": 4.3,
+        "description": "A grand vegetarian platter featuring a variety of curries, roti, rice, and desserts for a royal meal experience.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/3/31/a58ff196-4e8c-4504-a4ae-fce36382c762_ab3a27c5-852e-46f0-88c4-d3f39d9f2e8a.jpeg"
+      },
+      {
+        "id": 6895,
+        "name": "Paneer Masala And Paratha Combo",
+        "price": 404,
+        "category": "Noodles",
+        "isVeg": true,
+        "rating": 3.9,
+        "description": "Delicious paneer masala served with two soft parathas—a perfect combo for a filling lunch or dinner.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2025/6/25/41b2c293-a0f2-488f-a1b2-c222cdbff51a_d06c6edf-460e-4d91-9730-db108cd7d9be.JPG"
+      },
+      {
+        "id": 2518,
+        "name": "Dal Fry With Jeera Rice Combo",
+        "price": 259,
+        "category": "Pizza",
+        "isVeg": true,
+        "rating": 3.4,
+        "description": "Comforting yellow dal tempered with spices, paired with aromatic jeera rice.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/11/24/6f1641e8-0ee9-4263-9536-7e2ddac81ca6_6ddac0ec-649a-4ac7-8c10-18da76d0ebca.jpg"
+      },
+      {
+        "id": 8163,
+        "name": "Paneer Masala With Jeera Rice Combo",
+        "price": 478,
+        "category": "Biryani",
+        "isVeg": true,
+        "rating": 3.6,
+        "description": "Creamy paneer masala served with fragrant jeera rice for a rich and tasty combo.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2025/6/25/76fe59a5-b01c-4ee2-97a2-0ed38d6faff5_57ea77e4-f1c0-44ba-b57f-c36851ae0aef.JPG"
+      },
+      {
+        "id": 8149,
+        "name": "Chilli Chana",
+        "price": 228,
+        "category": "Sushi",
+        "isVeg": true,
+        "rating": 4.9,
+        "description": "Crispy chickpeas tossed in a spicy Indo-Chinese sauce, garnished with spring onions.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/4/1/651d7081-f512-49de-a09f-3595c967da38_c7e13ada-f547-4e92-becd-693963da5dc2.jpg"
+      },
+      {
+        "id": 8611,
+        "name": "Paneer Chilli",
+        "price": 200,
+        "category": "Pasta",
+        "isVeg": true,
+        "rating": 3.4,
+        "description": "Fried paneer cubes tossed in a spicy soy-based sauce with bell peppers and onions.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/kjewacnqbrqebid1y2dg"
+      },
+      {
+        "id": 9863,
+        "name": "Veg Manchurian",
+        "price": 163,
+        "category": "Sandwich",
+        "isVeg": true,
+        "rating": 4.6,
+        "description": "Crispy veggie balls served in a flavorful soy-garlic gravy, a popular Indo-Chinese dish.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/4/1/aa7cee0e-da0f-406a-8f08-ee53497b86aa_f77cee5c-c08d-4f52-9c1a-81be52f6bb7a.jpeg"
+      },
+      {
+        "id": 8011,
+        "name": "Cheese Angoori",
+        "price": 333,
+        "category": "Biryani",
+        "isVeg": true,
+        "rating": 3.7,
+        "description": "Mini cheese balls simmered in a rich, creamy curry—deliciously indulgent.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2025/3/15/8a401091-b7a3-40d6-8cb9-b6f5bdb8a997_a83f24b3-6060-455f-bd98-dd9e2b6eec3b.jpg"
+      },
+      {
+        "id": 2835,
+        "name": "Methi Mattar Malai",
+        "price": 151,
+        "category": "Pizza",
+        "isVeg": true,
+        "rating": 4.1,
+        "description": "A rich and creamy North Indian curry made with fenugreek leaves and green peas.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2025/3/15/7e4fd6ba-199f-4f4e-b9e7-5c2c786daa8b_3d024f59-d3e0-4a3a-95a8-5a6bbe1a40ea.jpg"
+      },
+      {
+        "id": 5769,
+        "name": "Navratan Korma",
+        "price": 484,
+        "category": "Burger",
+        "isVeg": false,
+        "rating": 4.6,
+        "description": "A Mughlai-style creamy curry made with nine ingredients—nuts, fruits, and vegetables.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2025/3/15/aae9fb61-f15f-40a2-b5d8-24eadfef51fa_e19e9d66-b99f-4ab4-acc9-1a55ed07f9aa.jpg"
+      }
+    ]
+  },
+
+  {
+    "id": 7,
+    "name": "Sab Ghar Tak Foods",
+    "location": "Delhi",
+    "rating": 4.6,
+    "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/ryzswg44bt7thqzkuaj4",
+    "menu": [
+      {
+        "id": 3647,
+        "name": "Butter Tandoori Roti",
+        "price": 491,
+        "category": "Noodles",
+        "isVeg": true,
+        "rating": 4.8,
+        "description": "Soft and smoky tandoori roti generously brushed with butter, perfect with any curry.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7b7f2ba882545956bc38b76dabae05b6"
+      },
+      {
+        "id": 7823,
+        "name": "Butter Naan",
+        "price": 200,
+        "category": "Pizza",
+        "isVeg": true,
+        "rating": 4.7,
+        "description": "Fluffy Indian bread baked in a tandoor and finished with a generous layer of butter.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/329f8195a751ca91de12177604599f17"
+      },
+      {
+        "id": 9267,
+        "name": "Plain Naan",
+        "price": 326,
+        "category": "Sushi",
+        "isVeg": true,
+        "rating": 4.0,
+        "description": "Classic Indian flatbread made in a tandoor, soft and slightly crisp on the edges.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/62ab5fcf690f1589d61ae94af946c05f"
+      },
+      {
+        "id": 5918,
+        "name": "Manchow Soup",
+        "price": 175,
+        "category": "Salad",
+        "isVeg": true,
+        "rating": 3.5,
+        "description": "Spicy Indo-Chinese soup loaded with veggies, garnished with crispy noodles.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/b4b84acb3cc565d477006ebb545d1505"
+      },
+      {
+        "id": 2736,
+        "name": "Veg Fried Rice",
+        "price": 176,
+        "category": "Biryani",
+        "isVeg": true,
+        "rating": 4.3,
+        "description": "Aromatic rice stir-fried with colorful vegetables and light soy-based seasoning.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/tnwoashlipvrtexapucq"
+      },
+      {
+        "id": 5766,
+        "name": "Plain Tandoori Roti",
+        "price": 472,
+        "category": "Biryani",
+        "isVeg": true,
+        "rating": 3.8,
+        "description": "Traditional whole wheat roti baked in tandoor, perfect for pairing with curries.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/6/28/5ee59497-eb2e-492e-af71-5caabe00ed75_4e8c4ec4-ad99-48d4-8f33-0bd1975fc10f.JPG"
+      },
+      {
+        "id": 8413,
+        "name": "Butter Tandoori Roti",
+        "price": 222,
+        "category": "Pasta",
+        "isVeg": true,
+        "rating": 3.0,
+        "description": "A second serving of buttery tandoori delight—soft inside, crisp outside.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7b7f2ba882545956bc38b76dabae05b6"
+      },
+      {
+        "id": 5576,
+        "name": "Butter Lachcha Paratha",
+        "price": 243,
+        "category": "Sushi",
+        "isVeg": true,
+        "rating": 5.0,
+        "description": "Layered and flaky paratha cooked in ghee and butter—crisp and rich in taste.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/10/2/be788df8-1d98-43a2-80d2-55ac58b10af6_2d93ca3c-532d-4909-9155-d07871aa095e.JPG"
+      },
+      {
+        "id": 9672,
+        "name": "Biryani Rice",
+        "price": 215,
+        "category": "Biryani",
+        "isVeg": true,
+        "rating": 4.8,
+        "description": "Fragrant basmati rice cooked with mild spices—ideal as a side or standalone meal.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/10/2/9d8de256-29e7-49ec-95d9-6e24f4811519_42f8f84b-d547-4e5e-9ba9-2771ef454d78.JPG"
+      },
+      {
+        "id": 2959,
+        "name": "Paneer Hariyali TIkka",
+        "price": 154,
+        "category": "Salad",
+        "isVeg": true,
+        "rating": 3.6,
+        "description": "Marinated paneer cubes grilled to perfection with mint-coriander masala.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/10/9/a0ea072d-1dcf-4f11-87ee-4777e4db73ac_ded3a412-50c9-475f-9606-336773716141.JPG"
+      },
+      {
+        "id": 9110,
+        "name": "Gulab jamun",
+        "price": 258,
+        "category": "Wrap",
+        "isVeg": true,
+        "rating": 3.8,
+        "description": "Soft, sweet khoya balls soaked in rose-flavored sugar syrup. A classic Indian dessert.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/6/28/4b2f4da4-9fc7-42c0-b6d7-8c4a9e727ec2_c55887b7-4919-4a9e-a891-dcccd3de5e4a.JPG"
+      }
+    ]
+  },
+
+  {
+    "id": 8,
+    "name": "The Fusion Lounge",
+    "location": "Hyderabad",
+    "rating": 4.1,
+    "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/fa4944f0cfdcbca2bec1f3ab8e3db3f7",
+    "menu": [
+      {
+        "id": 5365,
+        "name": "Chhole Bhature",
+        "price": 484,
+        "category": "Biryani",
+        "isVeg": true,
+        "rating": 4.0,
+        "description": "Classic North Indian combo of spicy chickpeas and fluffy deep-fried bhature.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/4/14/ab9c5d44-a0ac-41d5-8856-838707629911_537607ab-ce2e-4092-9554-b8b65bddbc7e.jpg_compressed"
+      },
+      {
+        "id": 8023,
+        "name": "Chhole Kulcha",
+        "price": 213,
+        "category": "Wrap",
+        "isVeg": true,
+        "rating": 4.0,
+        "description": "Soft buttered kulchas served with spicy tangy chickpea curry.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2025/6/25/87974645-05d9-47b1-9c17-559dff277bb9_5e3dac16-85a0-491a-9b0f-a3028ce367ea.JPG"
+      },
+      {
+        "id": 6930,
+        "name": "Chhole With Jeera Rice",
+        "price": 426,
+        "category": "Salad",
+        "isVeg": true,
+        "rating": 4.0,
+        "description": "A comforting plate of spicy chhole paired with aromatic jeera rice.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/3/7/9e4790a8-b31b-48b3-ae29-1e412f3eb6e9_416f5fc1-e767-4667-ace3-d9f8dbff6596_compressed"
+      },
+      {
+        "id": 5882,
+        "name": "Aloo Tikki Burger",
+        "price": 308,
+        "category": "Pasta",
+        "isVeg": true,
+        "rating": 4.7,
+        "description": "Crunchy potato patty with chutneys and veggies inside a soft burger bun.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/c983287d381abd0e126b686006cdb8e4"
+      },
+      {
+        "id": 4308,
+        "name": "Stuffed Cheese Burger",
+        "price": 471,
+        "category": "Dessert",
+        "isVeg": true,
+        "rating": 4.8,
+        "description": "Delicious burger loaded with molten cheese and crunchy veg stuffing.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/955ff7f375e7f32613979b2ebed84393"
+      },
+      {
+        "id": 8538,
+        "name": "Veg Mineral Burger",
+        "price": 195,
+        "category": "Salad",
+        "isVeg": true,
+        "rating": 4.7,
+        "description": "Nutritious veggie patty filled with minerals and grilled to perfection.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/4b4e8146e6bbffd158085e2581ed9e50"
+      },
+      {
+        "id": 8710,
+        "name": "French Fries",
+        "price": 344,
+        "category": "Noodles",
+        "isVeg": true,
+        "rating": 4.4,
+        "description": "Crispy golden fries sprinkled with mild spices, served hot and crunchy.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/5e6776364e1f23f7feb627f3fafcd42e"
+      },
+      {
+        "id": 3149,
+        "name": "Cheese Garlic Bread",
+        "price": 236,
+        "category": "Sushi",
+        "isVeg": true,
+        "rating": 4.0,
+        "description": "Toasted garlic bread topped with gooey cheese, herbs, and butter.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/8e39c408119d97d69ea4e4e70aa9baa9"
+      },
+      {
+        "id": 9607,
+        "name": "Veg Schezwan Noodles",
+        "price": 216,
+        "category": "Sushi",
+        "isVeg": true,
+        "rating": 4.9,
+        "description": "Spicy Indo-Chinese noodles tossed with fresh veggies and schezwan sauce.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7135f8d65f3da00c72bc5586f2fe4edf"
+      },
+      {
+        "id": 3381,
+        "name": "Veg Noodles",
+        "price": 485,
+        "category": "Wrap",
+        "isVeg": true,
+        "rating": 3.3,
+        "description": "Classic hakka noodles stir-fried with vegetables in light soy seasoning.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/a8ea85becdf548a655f3069fc18501c2"
+      },
+      {
+        "id": 1354,
+        "name": "Honey Chilli Potato",
+        "price": 394,
+        "category": "Biryani",
+        "isVeg": true,
+        "rating": 3.4,
+        "description": "Crispy potato fingers tossed in sweet and spicy honey chilli glaze.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/d7e71eb3337399aff625e98d6639c890"
+      },
+      {
+        "id": 7370,
+        "name": "Chilli Paneer",
+        "price": 195,
+        "category": "Sandwich",
+        "isVeg": true,
+        "rating": 4.8,
+        "description": "Soft paneer cubes stir-fried in a tangy Indo-Chinese chilli sauce.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/96aa11b463b96a70a3cca893c7dd2892"
+      },
+      {
+        "id": 3028,
+        "name": "Veg Manchurian",
+        "price": 173,
+        "category": "Salad",
+        "isVeg": true,
+        "rating": 4.0,
+        "description": "Deep-fried veggie balls tossed in a flavorful Manchurian gravy.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/98dc0e39df36cb8e5d191ddd62ee34f0"
+      }
+    ]
+  },
+
+  {
+    "id": 9,
+    "name": "Bakery World",
+    "location": "Mumbai",
+    "rating": 3.5,
+    "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/mt2aggiscfl3yviatwng",
+    "menu": [
+      {
+        "id": 2159,
+        "name": "2 Pound Black Forest Cake",
+        "price": 442,
+        "category": "Pizza",
+        "isVeg": true,
+        "rating": 4.8,
+        "description": "A rich chocolate sponge cake layered with whipped cream and cherries.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/140a241ff25a405dc297f6e8b0802850"
+      },
+      {
+        "id": 3013,
+        "name": "2 Pound Chocolate Cake",
+        "price": 462,
+        "category": "Dessert",
+        "isVeg": true,
+        "rating": 4.9,
+        "description": "Decadent and moist chocolate cake covered in smooth chocolate ganache.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/c964f804bd58da311926b308505330fa"
+      },
+      {
+        "id": 1521,
+        "name": "2 Pound White Forest Cake",
+        "price": 457,
+        "category": "Burger",
+        "isVeg": true,
+        "rating": 3.6,
+        "description": "A creamy and fluffy white sponge cake with layers of cherries and whipped cream.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/lr7pcozn8d5rhfrr0wnq"
+      },
+      {
+        "id": 9715,
+        "name": "Butterscotch Pastry",
+        "price": 421,
+        "category": "Dessert",
+        "isVeg": true,
+        "rating": 4.4,
+        "description": "Soft pastry layered with luscious butterscotch cream and caramel crunch.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/5aa09ebd76a8248a060efd93243eafaf"
+      },
+      {
+        "id": 7005,
+        "name": "Black Forest Pastry",
+        "price": 152,
+        "category": "Burger",
+        "isVeg": true,
+        "rating": 5.0,
+        "description": "Individual slice of the classic Black Forest cake topped with whipped cream and cherry.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/abbf409c26c7c32c9fd652752a1624ce"
+      },
+      {
+        "id": 5460,
+        "name": "Pineapple Pastry",
+        "price": 404,
+        "category": "Sandwich",
+        "isVeg": true,
+        "rating": 3.0,
+        "description": "Light sponge cake filled with pineapple chunks and creamy frosting.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2025/1/15/21c5b5af-4bd2-423a-8a23-2a57e9cd5cce_3045e06a-2671-4cab-9b94-41bc34dd6571.JPG"
+      },
+      {
+        "id": 1272,
+        "name": "Butterscotch",
+        "price": 337,
+        "category": "Biryani",
+        "isVeg": true,
+        "rating": 4.8,
+        "description": "Butterscotch cake with caramel drizzle and nutty crunch layers.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/svgz87pwwfzjp03pfdsq"
+      },
+      {
+        "id": 3222,
+        "name": "Cassatta Cake",
+        "price": 323,
+        "category": "Biryani",
+        "isVeg": true,
+        "rating": 3.5,
+        "description": "A colorful layered cake with fruit, nuts, and creamy ice-cream base.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/bseeyfnw2ngvp1ha9xgr"
+      },
+      {
+        "id": 2130,
+        "name": "Red Velvet",
+        "price": 497,
+        "category": "Burger",
+        "isVeg": true,
+        "rating": 4.4,
+        "description": "Velvety red sponge cake layered with rich cream cheese frosting.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/s3nrdplpx8nx442hntct"
+      },
+      {
+        "id": 4038,
+        "name": "Blueberry",
+        "price": 259,
+        "category": "Sandwich",
+        "isVeg": true,
+        "rating": 3.4,
+        "description": "Delicate blueberry cake with a layer of fruity blueberry cream.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/rohd7n9fiijwhyspcskj"
+      },
+      {
+        "id": 1676,
+        "name": "Pineapple Cake",
+        "price": 370,
+        "category": "Wrap",
+        "isVeg": true,
+        "rating": 3.2,
+        "description": "Classic vanilla cake with pineapple syrup and fruit toppings.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2025/1/15/8a1a5184-be7b-4e06-9878-df0ce2afb34d_94a697c4-a0cd-41be-9f26-9349370b6854.JPG"
+      },
+      {
+        "id": 4032,
+        "name": "Rasamalai Cake",
+        "price": 397,
+        "category": "Pizza",
+        "isVeg": true,
+        "rating": 3.7,
+        "description": "Fusion cake combining soft sponge with layers of traditional rasamalai cream.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/r1a4dtixsk6dwy2bnmcl"
+      }
+    ]
+  },
+
+  {
+    "id": 10,
+    "name": "Veg Biryani Wala",
+    "location": "Mumbai",
+    "rating": 4.8,
+    "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/o6prrzzimmmnsgeuxf73",
+    "menu": [
+      {
+        "id": 7986,
+        "name": "Aloo Jeera",
+        "price": 329,
+        "category": "Biryani",
+        "isVeg": true,
+        "rating": 3.3,
+        "description": "Spiced cumin-flavored potatoes sautéed to perfection in Indian masalas.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/f524634f6fc27b04308b190e531acd00"
+      },
+      {
+        "id": 2464,
+        "name": "Paneer Bhurji Dry",
+        "price": 264,
+        "category": "Pasta",
+        "isVeg": true,
+        "rating": 3.7,
+        "description": "Scrambled paneer cooked with spices, onions, and herbs, served dry.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/a90ee2c9771914d36cf249992e17f6e9"
+      },
+      {
+        "id": 7604,
+        "name": "Paneer Butter Masala",
+        "price": 312,
+        "category": "Salad",
+        "isVeg": true,
+        "rating": 3.1,
+        "description": "Creamy tomato-based curry loaded with paneer cubes and butter.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/d163f3ebf140865c8ccb74598619a605"
+      },
+      {
+        "id": 5365,
+        "name": "Paneer Do Pyaza",
+        "price": 163,
+        "category": "Salad",
+        "isVeg": true,
+        "rating": 4.2,
+        "description": "Paneer tossed with double onions in a tangy and spicy gravy.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/46779c8798671d1cb4872f7013150866"
+      },
+      {
+        "id": 1196,
+        "name": "Chicken Curry",
+        "price": 249,
+        "category": "Wrap",
+        "isVeg": true,
+        "rating": 3.3,
+        "description": "Rich and flavorful chicken curry with aromatic spices (veg tag might be incorrect).",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/e656a97a65d781f74dd7a4bce1c6fb0c"
+      },
+      {
+        "id": 9017,
+        "name": "Mutton Saoji",
+        "price": 303,
+        "category": "Sushi",
+        "isVeg": true,
+        "rating": 4.7,
+        "description": "A fiery Maharashtrian-style mutton curry made with bold Saoji spices.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/c0ef610964f44c3efb8415be415b1244"
+      },
+      {
+        "id": 7739,
+        "name": "Matar Paneer",
+        "price": 402,
+        "category": "Pasta",
+        "isVeg": true,
+        "rating": 4.5,
+        "description": "Classic North Indian curry of paneer cubes and green peas in a tomato-onion gravy.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/64005435ed6e8ac8507a3057a3f273f4"
+      },
+      {
+        "id": 7263,
+        "name": "Champaran Mutton Handi",
+        "price": 317,
+        "category": "Biryani",
+        "isVeg": true,
+        "rating": 3.1,
+        "description": "Slow-cooked mutton in clay pot (handi) with strong spices and mustard oil.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/3cc8814b95fb44005847bf4e4c5d9aca"
+      },
+      {
+        "id": 5067,
+        "name": "Palak Paneer",
+        "price": 449,
+        "category": "Salad",
+        "isVeg": true,
+        "rating": 4.9,
+        "description": "Smooth spinach gravy with tender paneer cubes, mildly spiced and nutritious.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/a264e909ee91f4c061c697ab687b03ff"
+      },
+      {
+        "id": 7751,
+        "name": "Aloo Gobi",
+        "price": 411,
+        "category": "Noodles",
+        "isVeg": true,
+        "rating": 3.4,
+        "description": "A vegetarian dry dish of potatoes and cauliflower cooked with Indian spices.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/537638f5ec395cac1469c265ded42c1b"
+      }
+    ]
+  },
+
+  {
+    "id": 11,
+    "name": "Sunfire Rooftop Restaurant",
+    "location": "Delhi",
+    "rating": 4.7,
+    "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/8/24/8dcf7245-861c-4c67-8d4c-a73927422e62_946888.jpg",
+    "menu": [
+      {
+        "id": 9654,
+        "name": "Special Cold Coffee",
+        "price": 456,
+        "category": "Wrap",
+        "isVeg": true,
+        "rating": 4.8,
+        "description": "Refreshing blend of coffee, ice cream, and milk served chilled.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/436cf521b4dd83bcda1bc6089e5ddd51"
+      },
+      {
+        "id": 6892,
+        "name": "Hot Coffee",
+        "price": 484,
+        "category": "Dessert",
+        "isVeg": true,
+        "rating": 4.1,
+        "description": "Strong aromatic brew of roasted coffee beans served piping hot.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/a7b8813b890e1efaf7f8129f543932cf"
+      },
+      {
+        "id": 2590,
+        "name": "Tea",
+        "price": 459,
+        "category": "Pasta",
+        "isVeg": true,
+        "rating": 4.5,
+        "description": "Classic Indian chai with spices and milk for a soothing flavor.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/6/6/8f48cf2a-182c-42c7-bd04-70820d7e554e_4eb4d771-1445-44f0-8c65-3c8c4d439f0f.jpg"
+      },
+      {
+        "id": 6268,
+        "name": "Nes Cafe",
+        "price": 262,
+        "category": "Wrap",
+        "isVeg": true,
+        "rating": 3.7,
+        "description": "Instant coffee blend with milk, perfect for a quick caffeine fix.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/3/15/77734a4a-2644-4d65-b325-b4dd4bae1f42_665eb2ca-f13c-47a1-8e85-275b8e704c3c.jpg"
+      },
+      {
+        "id": 1400,
+        "name": "Hot Milk",
+        "price": 389,
+        "category": "Pasta",
+        "isVeg": true,
+        "rating": 4.1,
+        "description": "Pure warm milk served fresh, ideal for a comforting sip.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/3/28/1ebd7eb3-e4c0-4f8b-a0b2-acfb785be913_d79283ff-467d-4bb0-be5a-a3c14034c062.jpg"
+      },
+      {
+        "id": 2872,
+        "name": "Vada Sambar",
+        "price": 446,
+        "isVeg": true,
+        "category": "Pizza",
+        "rating": 4.6,
+        "description": "Crispy lentil donuts soaked in tangy South Indian sambar.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/ivwonztej6gh8p9qcif4"
+      },
+      {
+        "id": 2586,
+        "name": "Bread Pakoda (2 Pieces)",
+        "price": 433,
+        "category": "Pasta",
+        "isVeg": true,
+        "rating": 3.5,
+        "description": "Bread slices stuffed, spiced, and deep-fried to golden perfection.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/4/9/a42be2cb-3873-4af5-8333-d6e5126ce1cf_95e4075b-e54d-4a7f-9a54-10f66d81f4ad.jpg"
+      },
+      {
+        "id": 5315,
+        "name": "Special Uttapam",
+        "price": 256,
+        "category": "Biryani",
+        "isVeg": true,
+        "rating": 4.4,
+        "description": "Thick South Indian pancake topped with vegetables and served hot.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/fxiqwmtnskqgnepzc31r"
+      },
+      {
+        "id": 3300,
+        "name": "Paneer Pakoda",
+        "price": 373,
+        "category": "Noodles",
+        "isVeg": true,
+        "rating": 3.9,
+        "description": "Soft paneer chunks coated in gram flour batter and deep-fried.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/ec860cfb94331eab027a02c5188a698b"
+      },
+      {
+        "id": 4284,
+        "name": "Dahi Vada",
+        "price": 271,
+        "category": "Salad",
+        "isVeg": true,
+        "rating": 4.7,
+        "description": "Lentil vadas soaked in yogurt and topped with chutneys and spices.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/9/6/5865215e-afcc-44f0-a96c-938b1ea0545a_2bdc5399-fd49-4f37-aac1-13d8b5eed27b.jpg"
+      },
+      {
+        "id": 1459,
+        "name": "Cheese Toast",
+        "price": 168,
+        "category": "Burger",
+        "isVeg": true,
+        "rating": 3.3,
+        "description": "Toasted bread with melted cheese topping, crispy and gooey.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/zbuatlwgudqnd4fkojjm"
+      },
+      {
+        "id": 2605,
+        "name": "Dahi Vada (Sweet)",
+        "price": 409,
+        "category": "Salad",
+        "isVeg": true,
+        "rating": 5.0,
+        "description": "Soft vadas in sweetened curd garnished with tamarind chutney.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/a93f7025c920ef142e9be38698345a32"
+      },
+      {
+        "id": 9655,
+        "name": "Cheese Cutlet (1 Piece)",
+        "price": 327,
+        "category": "Dessert",
+        "isVeg": true,
+        "rating": 4.7,
+        "description": "Crispy deep-fried cutlet with a gooey cheesy center.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/6/28/5ef739ac-18c7-45fa-ac85-fcaa525f1d72_a8fcda65-e1b2-4be9-bead-aaf3465f1017.jpg"
+      }
+    ]
+  },
+
+  {
+    "id": 12,
+    "name": "Chatori Food Junction",
+    "location": "Mumbai",
+    "rating": 4.6,
+    "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/906c0affa7d8ff78a3e4db88b4433cde",
+    "menu": [
+      {
+        "id": 1432,
+        "name": "Bhatura (Extra)",
+        "price": 190,
+        "category": "Sushi",
+        "isVeg": true,
+        "rating": 4.0,
+        "description": "Fluffy deep-fried Indian bread, perfect with chole or curry.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/3/26/c860ad06-2e1c-4a01-9bad-ba38f35b4cbe_849044f9-4db1-4a91-a22e-bb8b3210453d.jpg"
+      },
+      {
+        "id": 6342,
+        "name": "Toast With Jam",
+        "price": 444,
+        "category": "Burger",
+        "isVeg": true,
+        "rating": 4.1,
+        "description": "Golden toasted bread topped with a generous layer of fruit jam.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/4/9/d20b0063-9ad8-4d1e-83a8-5715638fb580_bf47a104-dc78-4fdc-8657-43bd02e64ca7.jpg"
+      },
+      {
+        "id": 9317,
+        "name": "Bread With Jam",
+        "price": 184,
+        "category": "Burger",
+        "isVeg": true,
+        "rating": 4.5,
+        "description": "Soft bread slices spread with delicious fruit jam.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/4/9/2f356f66-614e-45ed-8b45-8546d0abd7b4_84ff0b56-cbbc-4074-9d5e-8d3f7717fc42.jpg"
+      },
+      {
+        "id": 7738,
+        "name": "Potato Chips",
+        "price": 241,
+        "category": "Noodles",
+        "isVeg": true,
+        "rating": 3.8,
+        "description": "Crispy, thin-sliced potatoes lightly salted and deep-fried.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/5/23/d6692b6a-e0b5-4229-ba4d-c75c58f04d12_63b66680-cf6f-4381-a154-8c9666b5e633.jpg"
+      },
+      {
+        "id": 7003,
+        "name": "Toast With Butter",
+        "price": 228,
+        "category": "Sushi",
+        "isVeg": true,
+        "rating": 3.9,
+        "description": "Freshly toasted bread generously spread with creamy butter.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/4/9/2eb06dd8-6588-4931-9e5d-0add0218463c_1f72e304-56f4-4f03-89a5-3df1dd94cd8e.jpg"
+      },
+      {
+        "id": 7214,
+        "name": "Bread With Butter",
+        "price": 243,
+        "category": "Noodles",
+        "isVeg": true,
+        "rating": 3.2,
+        "description": "Simple and soft bread slices spread with smooth butter.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/4/9/9c9230bb-90a8-4efd-8060-4a98af92788d_2e4ee9c0-faeb-47d3-b547-ea10bd32761f.jpg"
+      },
+      {
+        "id": 3880,
+        "name": "Coconut Uttapam",
+        "price": 434,
+        "category": "Biryani",
+        "isVeg": true,
+        "rating": 3.1,
+        "description": "Soft uttapam topped with fresh shredded coconut for added flavor.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/2cd031b01a0a94a0e94e7042ef1ee8a2"
+      },
+      {
+        "id": 6734,
+        "name": "Cheese Pakoda",
+        "price": 233,
+        "category": "Pasta",
+        "isVeg": true,
+        "rating": 4.6,
+        "description": "Crispy gram flour fritters filled with gooey melted cheese.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/dc788ead530967cc1dc920dd4f2aaca9"
+      },
+      {
+        "id": 9219,
+        "name": "Bread Slice",
+        "price": 194,
+        "category": "Biryani",
+        "isVeg": true,
+        "rating": 4.8,
+        "description": "Freshly sliced soft white bread, great for pairing with sides.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/fb7b9d71559a44c59a943c0b29b7f944"
+      },
+      {
+        "id": 1045,
+        "name": "Toast Without Butter",
+        "price": 284,
+        "category": "Wrap",
+        "isVeg": true,
+        "rating": 3.2,
+        "description": "Crisp plain toast without any toppings or spreads.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/4/9/e4e394cd-ee84-4d78-849c-9065947d363a_13ac87f8-d97c-44d3-88fe-440b298cb4f7.jpg"
+      },
+      {
+        "id": 6841,
+        "name": "Stuff Tomato",
+        "price": 437,
+        "isVeg": true,
+        "category": "Dessert",
+        "rating": 3.0,
+        "description": "Juicy tomatoes stuffed with a spicy flavorful filling.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/7/6/87104829-c23c-4cab-a060-318c487dca86_dbb017e1-45c9-45c2-a8cc-38ff7493f895.jpg"
+      },
+      {
+        "id": 5831,
+        "name": "Veg Spring Roll",
+        "price": 258,
+        "category": "Wrap",
+        "isVeg": true,
+        "rating": 3.6,
+        "description": "Crispy rolls filled with stir-fried vegetables and mild spices.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/6e04c6ae34bb89a683f64a5f586b9f5d"
+      },
+      {
+        "id": 2005,
+        "name": "Veg Noodle",
+        "price": 322,
+        "category": "Pizza",
+        "isVeg": true,
+        "rating": 4.7,
+        "description": "Stir-fried noodles tossed with fresh veggies and oriental spices.",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2025/1/24/d123dcb8-3a82-4726-8882-84f070857d97_3286ddfd-6f15-4cd4-a051-36871e9384ce.jpg"
+      }
+    ]
+  }
+]
