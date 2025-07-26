@@ -7,6 +7,9 @@ import cors from "cors";
 import MockRoutes from "./routes/mockRoutes.js";
 import restaurantData from "./Data/restaurantData.js";
 import RestaurantModel from "./models/restaurants.model.js";
+import CartRoutes from "./routes/cart.js";
+import OrderRoutes from "./routes/orders.js";
+import AddressRoutes from "./routes/addres.js";
 
 env.config();
 
@@ -16,6 +19,9 @@ app.use(cors());
 app.use(cookieParser());
 app.use("/user", UserRoutes);
 app.use("/api", MockRoutes);
+app.use("/cart", CartRoutes);
+app.use("order", OrderRoutes);
+app.use("address", AddressRoutes);
 
 const port = process.env.PORT || 9000;
 
